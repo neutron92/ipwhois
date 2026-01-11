@@ -4,14 +4,14 @@
 [![GitHub](https://img.shields.io/github/license/neutron92/ipwhois)](https://github.com/neutron92/ipwhois)
 [![Node.js Version](https://img.shields.io/node/v/ipwhois)](https://nodejs.org)
 
-A lightweight Node.js module for fetching IP geolocation information using the [ipwhois.app](https://ipwhois.app) API.
+A lightweight Node.js module for fetching IP geolocation information using the [ipwhois.app](https://ipwhois.app/json/) API.
 
 ## Features
 
 - 🚀 Simple and easy to use
 - 📦 Zero dependencies (uses native Node.js fetch)
 - 🔒 TypeScript support with full type definitions
-- ⚡ Works with Node.js 20+
+- ⚡ Works with Node.js 22+
 - 🌍 Get geolocation info for any IP or your current IP
 - ⏱️ Configurable timeout support
 
