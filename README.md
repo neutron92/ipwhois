@@ -1,5 +1,9 @@
 # IPWhois Node Module
 
+[![npm version](https://img.shields.io/npm/v/ipwhois.svg)](https://www.npmjs.com/package/ipwhois)
+[![GitHub](https://img.shields.io/github/license/neutron92/ipwhois)](https://github.com/neutron92/ipwhois)
+[![Node.js Version](https://img.shields.io/node/v/ipwhois)](https://nodejs.org)
+
 A lightweight Node.js module for fetching IP geolocation information using the [ipwhois.app](https://ipwhois.app) API.
 
 ## Features
@@ -14,8 +18,7 @@ A lightweight Node.js module for fetching IP geolocation information using the [
 ## Installation
 
 ```bash
-npm install
-npm run build
+npm install ipwhois
 ```
 
 ## Usage
@@ -197,6 +200,10 @@ npm test
 ## License
 
 MIT
+
+## Repository
+
+[GitHub Repository](https://github.com/neutron92/ipwhois)
 
 ## Credits
 
